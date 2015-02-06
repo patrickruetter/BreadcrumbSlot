@@ -2,7 +2,7 @@
 ImpressPages Plugin that adds a Breadcrumb Slot.
 
 ## Installation
-1. Download .zip
+1. [Download .zip](https://github.com/patrickruetter/BreadcrumbSlot/archive/master.zip)
 2. Unpack
 3. Copy the `BreadcrumbSlot` directory to the `Plugin` directory
 4. Install the Plugin in the Plugin Manager
