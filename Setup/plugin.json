@@ -1,7 +1,7 @@
 {
-"title": "Breadcrumb Slot",
-"version": "1.00",
-"name": "BreadcrumbSlot",
-"description": "Allows you to output Breadcrumbs. Documentation: http://github.com/patrickruetter/BreadcrumbSlot",
-"author": "Patrick Rütter"
+  "title": "Breadcrumb Slot",
+  "version": "1.00",
+  "name": "BreadcrumbSlot",
+  "description": "Allows you to output Breadcrumbs. Documentation: http://github.com/patrickruetter/BreadcrumbSlot",
+  "author": "Patrick Rütter"
 }
