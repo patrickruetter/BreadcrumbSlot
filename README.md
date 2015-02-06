@@ -65,7 +65,7 @@ __Example__
 ?>
 ```
 
-### type (Default: `'text'`)
+### mode (Default: `'text'`)
 __Allowed Values__
 `'text'`, `'html'`
 
@@ -73,7 +73,7 @@ __Example__
 ```php
 <?php
   $params = array(
-    'type' => 'html'
+    'mode' => 'html'
   );
   echo ipSlot('breadcrumbs', $params);
 ?>
