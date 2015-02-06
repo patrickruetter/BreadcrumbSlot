@@ -6,7 +6,7 @@ class Slot {
     $defaultParams = array(
       'pageId' => ipContent()->getCurrentPage()->getId(),
       'separator' => ' › ',
-      'direction' => 'up'
+      'direction' => 'down'
     );
 
     $params = array_merge($defaultParams, $params);
