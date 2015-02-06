@@ -65,5 +65,19 @@ __Example__
 ?>
 ```
 
+### type (Default: `'text'`)
+__Allowed Values__
+`'text'`, `'html'`
+
+__Example__
+```php
+<?php
+  $params = array(
+    'type' => 'html'
+  );
+  echo ipSlot('breadcrumbs', $params);
+?>
+```
+
 ## Attribution
 Bread Icon made by [Freepik](http://www.freepik.com) from [Flaticon](http://www.flaticon.com) is licensed under [CC BY 3.0](http://creativecommons.org/licenses/by/3.0/).
