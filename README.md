@@ -52,6 +52,8 @@ __Example__
 ?>
 ```
 ### direction (Default: `'down'`)
+__Allowed Values__
+`'down'`, `'up'`
 
 __Example__
 ```php
