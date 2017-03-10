@@ -1,3 +1,5 @@
+> This repository is no longer maintained!
+
 # BreadcrumbSlot
 ImpressPages Plugin that adds a Breadcrumb Slot.
 
